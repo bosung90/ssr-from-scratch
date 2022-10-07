@@ -4,14 +4,15 @@
   "license": "MIT",
   "dependencies": {
     "@parcel/core": "^2.7.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "preact": "^10.11.1",
+    "preact-render-to-string": "^5.2.4",
     "url": "^0.11.0"
   },
   "devDependencies": {
     "@parcel/reporter-cli": "^2.7.0",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
+    "esbuild": "^0.15.10",
     "parcel": "^2.7.0",
     "path-browserify": "^1.0.1",
     "process": "^0.11.10",
